@@ -1,2 +1,2 @@
 # chat-server-project
-Started code for chat server project
+Starter code for chat server project
